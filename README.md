@@ -1,4 +1,10 @@
 # space-invaders
 The complete space invaders
-Only use for educatial goals.
+
+
+
+
+Only use for educational goals.
+
+
    GOOD LUCK
